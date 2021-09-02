@@ -1,0 +1,53 @@
+[{
+        "categoria": "Arte y literatura",
+        "pregunta": "Esta solicitando a las autoridades locales         ",
+        "respuesta": "He's applying to the local authorities        ",
+        "incorrecta1": "He applies to the local authorities ",
+        "incorrecta2": "He apply to the local authorities",
+        "incorrecta3": "He's apply  to the local authorities",
+        "imagen": "https://i.ibb.co/9cjvmw1/mona-lisa.jpg",
+        "objectFit": "cover"
+
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "Ha solicitado un nuevo trabajo",
+        "respuesta": "He has applied for a new job",
+        "incorrecta1": "He applied for a new job ",
+        "incorrecta2": "He has apply for a new job        ",
+        "incorrecta3": "He have applied  for a new job\r",
+        "imagen": "https://i.ibb.co/SDjX7PM/jardin-de-las-delicias.jpg",
+        "objectFit": "cover"
+
+    },
+    {
+        "categoria": "",
+        "pregunta": "Solicitó a una organización caritativa",
+        "respuesta": " He applied to a charitable organization      ",
+        "incorrecta1": " He apply to a charitable organization ",
+        "incorrecta2": "He has apply  to a charitable organization ",
+        "incorrecta3": "He had applied to a charitable organization\r",
+        "imagen": "https://i.ibb.co/SDjX7PM/jardin-de-las-delicias.jpg",
+        "objectFit": "cover"
+
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "Pondrá presión para conseguir lo que quiere         ",
+        "respuesta": "He will apply pressure to get want he wants",
+        "incorrecta1": "He would apply  pressure to get want he wants",
+        "incorrecta2": "He's going to apply  pressure to get want he wants ",
+        "incorrecta3": "He will applied   pressure to get want he wants        \r",
+        "imagen": "https://i.ibb.co/zfM2Vyd/paul-auster.jpg"
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "Va a solicitar unirse a la policía ",
+        "respuesta": "He's going to apply to join the police",
+        "incorrecta1": "He would apply   to join the police        ",
+        "incorrecta2": "He will apply   to join the police       ",
+        "incorrecta3": "He's going to applied   to join the police     \r",
+        "imagen": "https://i.ibb.co/WHd1NnL/el-viejo-y-el-mar.jpg"
+    }
+
+]

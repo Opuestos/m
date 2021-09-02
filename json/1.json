@@ -1,0 +1,53 @@
+[{
+        "categoria": "Arte y literatura",
+        "pregunta": "Estás sosteniendo un vaso de vino         ",
+        "respuesta": "You are holding a glass of wine         ",
+        "incorrecta1": "You hold a glass of wine",
+        "incorrecta2": "You are hold a glass of wine",
+        "incorrecta3": "You would hold a glass of wine",
+        "imagen": "https://i.ibb.co/9cjvmw1/mona-lisa.jpg",
+        "objectFit": "cover"
+
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "Has sostenido el jersey marrón",
+        "respuesta": "You have held thebrown sweater",
+        "incorrecta1": "You have holded  the brown sweater",
+        "incorrecta2": "You held the  brown sweater",
+        "incorrecta3": "You holded the  brown sweater\r",
+        "imagen": "https://i.ibb.co/SDjX7PM/jardin-de-las-delicias.jpg",
+        "objectFit": "cover"
+
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "Sostuviste el trofeo",
+        "respuesta": "You held  the trophy         ",
+        "incorrecta1": "You have held the trophy ",
+        "incorrecta2": "You have hold the trophy  ",
+        "incorrecta3": "You holded the trophy \r",
+        "imagen": "https://i.ibb.co/SDjX7PM/jardin-de-las-delicias.jpg",
+        "objectFit": "cover"
+
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "Sostendrás un  importante ",
+        "respuesta": "You will hold an important charge",
+        "incorrecta1": "You would hold an important charge ",
+        "incorrecta2": "You're going to hold an important charge",
+        "incorrecta3": "You will held  an important charge        \r",
+        "imagen": "https://i.ibb.co/zfM2Vyd/paul-auster.jpg"
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "Vas a sostenerla en tus manos ",
+        "respuesta": "You are going to hold her in your hands",
+        "incorrecta1": "You will hold her in your hands         ",
+        "incorrecta2": "You would hold her in your hands",
+        "incorrecta3": "You're going to held    her in your hands     \r",
+        "imagen": "https://i.ibb.co/WHd1NnL/el-viejo-y-el-mar.jpg"
+    }
+
+]

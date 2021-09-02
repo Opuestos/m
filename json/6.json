@@ -1,0 +1,53 @@
+[{
+        "categoria": "Arte y literatura",
+        "pregunta": "Te gusta el pescado con patatas?         ",
+        "respuesta": "Do you like fish and chips?   ",
+        "incorrecta1": "Did you like  fish and chips?       ",
+        "incorrecta2": "Are you like fish and chips?",
+        "incorrecta3": "Do you liked fish and chips?",
+        "imagen": "https://i.ibb.co/9cjvmw1/mona-lisa.jpg",
+        "objectFit": "cover"
+
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "Te ha gustado la película?",
+        "incorrecta3": "Have you liked the film?       ",
+        "incorrecta1": "Have you like? the film? ",
+        "incorrecta2": "Did you like? the film?         ",
+        "respuesta": "Did you liked the film? \r",
+        "imagen": "https://i.ibb.co/SDjX7PM/jardin-de-las-delicias.jpg",
+        "objectFit": "cover"
+
+    },
+    {
+        "categoria": "",
+        "pregunta": "Te gustó la idea que tuve? ",
+        "respuesta": "Did you like the idea I had?  ",
+        "incorrecta1": "Have you liked the idea I had?? ",
+        "incorrecta2": "Have you like the idea I had?? ",
+        "incorrecta3": "Did you liked the idea I had??      \r",
+        "imagen": "https://i.ibb.co/SDjX7PM/jardin-de-las-delicias.jpg",
+        "objectFit": "cover"
+
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "Te gustará?      ",
+        "respuesta": "Will you like it?",
+        "incorrecta1": "Would you like it ?  ",
+        "incorrecta2": "Will you liked it ? ",
+        "incorrecta3": "Are you going to like it ?     \r",
+        "imagen": "https://i.ibb.co/zfM2Vyd/paul-auster.jpg"
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "Te va a gustar el libro?   ",
+        "respuesta": "Are you going to like the book?        ",
+        "incorrecta1": "Will you like the book?        ",
+        "incorrecta2": "Would you like the book?        ",
+        "incorrecta3": "Are you going to like the book?    \r",
+        "imagen": "https://i.ibb.co/WHd1NnL/el-viejo-y-el-mar.jpg"
+    }
+
+]

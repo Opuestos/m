@@ -1,0 +1,53 @@
+[{
+        "categoria": "Arte y literatura",
+        "pregunta": "Le estamos dejando hacer lo que quiera        ",
+        "respuesta": "We're letting him do whatever he wants   ",
+        "incorrecta1": "We letting him do whatever he wants         ",
+        "incorrecta2": "We let him do whatever he wants",
+        "incorrecta3": "We would let him do whatever he wants",
+        "imagen": "https://i.ibb.co/9cjvmw1/mona-lisa.jpg",
+        "objectFit": "cover"
+
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "Dejamos a Rose ir al concierto",
+        "respuesta": "We let Rose go to the concert        ",
+        "incorrecta1": "We would let go to the concert ",
+        "incorrecta2": "We're going to let go to the concert      ",
+        "incorrecta3": "We will let go to the concert \r",
+        "imagen": "https://i.ibb.co/SDjX7PM/jardin-de-las-delicias.jpg",
+        "objectFit": "cover"
+
+    },
+    {
+        "categoria": "",
+        "pregunta": "Le dejaremos ayudarnos",
+        "respuesta": " We will let him help us   ",
+        "incorrecta1": "We're going to let help us ",
+        "incorrecta2": "We would let help us ",
+        "incorrecta3": "We let help us \r",
+        "imagen": "https://i.ibb.co/SDjX7PM/jardin-de-las-delicias.jpg",
+        "objectFit": "cover"
+
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "Hemos dejado a mi hijo ir a la fiesta de su escuela        ",
+        "respuesta": "We have let my son go to his school's party",
+        "incorrecta1": "We will let my son go to his school's party",
+        "incorrecta2": "We would let my son go to his school's party ",
+        "incorrecta3": "We let my son go to his school's party      \r",
+        "imagen": "https://i.ibb.co/zfM2Vyd/paul-auster.jpg"
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "Vamos a dejarle jugar con nosotros  ",
+        "respuesta": "We're going to let him play with us         ",
+        "incorrecta1": "He would see   see you playing      ",
+        "incorrecta2": "He will seen    see you playing     ",
+        "incorrecta3": "He's going to see    see you playing    \r",
+        "imagen": "https://i.ibb.co/WHd1NnL/el-viejo-y-el-mar.jpg"
+    }
+
+]

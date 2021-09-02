@@ -1,0 +1,53 @@
+[{
+        "categoria": "Arte y literatura",
+        "pregunta": "Te está viendo ahora mismo         ",
+        "respuesta": "He's seeing you right now     ",
+        "incorrecta1": "He sees you right now",
+        "incorrecta2": "He's see you right now",
+        "incorrecta3": "He seeing  you right now",
+        "imagen": "https://i.ibb.co/9cjvmw1/mona-lisa.jpg",
+        "objectFit": "cover"
+
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "Ha visto el documental",
+        "respuesta": "He has seen the documentary         ",
+        "incorrecta1": "He has see the documentary ",
+        "incorrecta2": "He have seen the documentary      ",
+        "incorrecta3": "He have see the documentary \r",
+        "imagen": "https://i.ibb.co/SDjX7PM/jardin-de-las-delicias.jpg",
+        "objectFit": "cover"
+
+    },
+    {
+        "categoria": "",
+        "pregunta": "Vio el bebé ayer",
+        "respuesta": " He saw the baby yesterday      ",
+        "incorrecta1": " He see the baby yesterday ",
+        "incorrecta2": "He seen the baby yesterday  ",
+        "incorrecta3": "He has seen the baby yesterday\r",
+        "imagen": "https://i.ibb.co/SDjX7PM/jardin-de-las-delicias.jpg",
+        "objectFit": "cover"
+
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "Pondrá presión para conseguir lo que quiere         ",
+        "respuesta": "He will apply pressure to get want he wants",
+        "incorrecta1": "He would apply pressure to get want he wants",
+        "incorrecta2": "He's going to apply pressure to get want he wants ",
+        "incorrecta3": "He will applied  pressure to get want he wants        \r",
+        "imagen": "https://i.ibb.co/zfM2Vyd/paul-auster.jpg"
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "Te vera jugar  ",
+        "respuesta": "He will see you playing         ",
+        "incorrecta1": "He would see   see you playing      ",
+        "incorrecta2": "He will seen    see you playing     ",
+        "incorrecta3": "He's going to see    see you playing    \r",
+        "imagen": "https://i.ibb.co/WHd1NnL/el-viejo-y-el-mar.jpg"
+    }
+
+]
